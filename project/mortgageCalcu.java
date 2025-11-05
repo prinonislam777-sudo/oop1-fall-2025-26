@@ -30,6 +30,8 @@ public class mortgageCalcu {
     
         double totalPayment = monthlyPayment * numberOfPayments;
         double totalInterest = totalPayment - principal;
+
+        
         
     
     }
